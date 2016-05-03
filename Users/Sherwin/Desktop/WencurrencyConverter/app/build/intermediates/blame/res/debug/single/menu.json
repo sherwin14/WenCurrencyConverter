@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Sherwin\\Desktop\\WenCurrencyConverter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pop_up.xml",
+        "source": "C:\\Users\\Sherwin\\Desktop\\WenCurrencyConverter\\app\\src\\main\\res\\menu\\pop_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sherwin\\Desktop\\WenCurrencyConverter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Sherwin\\Desktop\\WenCurrencyConverter\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sherwin\\Desktop\\WenCurrencyConverter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\Sherwin\\Desktop\\WenCurrencyConverter\\app\\src\\main\\res\\menu\\main_menu.xml"
+    }
+]
